@@ -1,0 +1,4 @@
+pip install pandas psycopg2-binary sqlalchemy boto3 apache-airflow apache-spark
+pip install pyspark
+pip install apache-airflow
+
