@@ -118,7 +118,7 @@ airflow scheduler
 ---
 
 ## Conclusion
-This ETL pipeline allows **automated processing** of sales data, ensuring **scalability and efficiency**. Future improvements can include **real-time data processing with Apache Kafka**.
+This ETL pipeline allows **automated processing** of sales data, ensuring **scalability and efficiency**. 
 
 Happy coding! 🚀
 
