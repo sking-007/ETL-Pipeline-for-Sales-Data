@@ -17,17 +17,6 @@ This project implements an **ETL (Extract, Transform, Load) pipeline** using **P
 
 ---
 
-## Folder Structure
-```
-ETL_Pipeline_Project/
-│── dags/                 # Airflow DAGs for pipeline automation
-│── data/                 # Raw data files (if applicable)
-│── scripts/              # Python scripts for ETL processes
-│── logs/                 # Log files for monitoring
-│── config/               # Configuration files (e.g., DB credentials)
-│── README.md             # Project documentation
-```
-
 ---
 
 ## Installation & Setup
