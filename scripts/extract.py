@@ -2,13 +2,7 @@ import pandas as pd
 import psycopg2
 from sqlalchemy import create_engine
 import os
-
-# Database credentials
-DB_HOST = ""
-DB_NAME = ""
-DB_USER = ""
-DB_PASS = ""
-DB_PORT = ""
+from config.config import DB_CONFIG  
 
 # Function to extract data from PostgreSQL
 def extract_from_postgres(table_name, output_csv):
